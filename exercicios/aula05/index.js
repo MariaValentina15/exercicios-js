@@ -36,6 +36,7 @@ export function somarPares(numeros) {
     if (numero % 2 === 0) 
       soma += numero 
 }
+return soma;
 }
 
 // Exercício 5 — contarLetra
